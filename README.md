@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Live URL
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hosted app [Crypto-tracker](https://react-coin-market-tracker.vercel.app/).
 
 ## Available Scripts
 
